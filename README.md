@@ -1,2 +1,6 @@
 # TH_TEST1_CNPM
 Bài thực hành
+
+# HỌ VÀ TÊN: MAI ĐĂNG KHOA
+## MSV: 24S1020031
+## SĐT: 0817383968
